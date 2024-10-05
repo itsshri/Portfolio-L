@@ -48,8 +48,8 @@ body {
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  font-style: white;
-  background-color: #000;
+  /* font-style: white; */
+  /* background-color: #000; */
 }
 
 h1, h2, p {
